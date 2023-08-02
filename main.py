@@ -2,8 +2,6 @@ from scraper import *
 from searcher import *
 from converter import *
 
-# TODO: create git repo for project
-
 
 def main():
     # scrape spotify playlist
