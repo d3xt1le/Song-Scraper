@@ -7,3 +7,5 @@ entry = tk.Entry()
 
 label.pack()
 entry.pack()
+
+window.mainloop()
