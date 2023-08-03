@@ -9,10 +9,10 @@ If not go to this link: [How to install Python on Windows, Mac and Linux](https:
 You will need to install the pytube, spotipy, moviepy, and dotenv modules to properly run the script.
 
 **Install:**
-	Pytube: `pip install pytube`
-	Spotipy: `pip install spotipy --upgrade`
-	Moviepy: `pip install moviepy`
-	Dotenv: `pip install python-dotenv`
+- Pytube: `pip install pytube`
+- Spotipy: `pip install spotipy --upgrade`
+- Moviepy: `pip install moviepy`
+- Dotenv: `pip install python-dotenv`
  
 
 ## Setting Up the Spotiy Web API
