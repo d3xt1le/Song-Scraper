@@ -31,7 +31,7 @@ Before running the script you must register the application and get credential a
 
 3. #### Get your credentials
 
-	In your newly created app, click on *settings*. This will take you to the *Basic Information* tab. There you will see your 'Client ID'. Under it click *view client secret* and this will show you your 'Client Secret'.
+	In your newly created app, click on **settings**. This will take you to the **Basic Information** tab. There you will see your 'Client ID'. Under it click **view client secret** and this will show you your 'Client Secret'.
    	<img src="img/credentials.png" width="800">
 
 5. #### Setup .env file
@@ -41,5 +41,4 @@ Before running the script you must register the application and get credential a
 	```
 	# .env example
 	CLIENT_ID='your_client_id'
-	CLIENT_SECRET='your_client_secret'
-```
+	CLIENT_SECRET='your_client_secret'```
