@@ -44,3 +44,8 @@ Before running the script you must register the application and get credential a
 	CLIENT_SECRET='your_client_secret
  	```
 	
+## Running the Script
+
+How to run the script:
+- Windows: `python main.py`
+- Linux and Mac: `python3 main.py`
