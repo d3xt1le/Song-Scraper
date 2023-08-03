@@ -28,4 +28,18 @@ Before running the script you must register the application and get credential a
 
 	Create a new app in the dashboard to generate the API credentials.
 	<img src="img/createapp.png" width="800">
-	
+
+3. #### Get your credentials
+
+	In your newly created app, click on *settings*. This will take you to the *Basic Information* tab. There you will see your 'Client ID'. Under it click *view client secret* and this will show you your 'Client Secret'.
+   	<img src="img/credentials.png" width="800">
+
+5. #### Setup .env file
+
+	You will need to copy your 'Client ID' and 'Client Secret' and paste them in the provided .env file.
+
+	```
+	# .env example
+	CLIENT_ID='your_client_id'
+	CLIENT_SECRET='your_client_secret'
+```
