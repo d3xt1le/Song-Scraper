@@ -27,12 +27,14 @@ Before running the script you must register the application and get credential a
 2. #### Create a new app
 
 	Create a new app in the dashboard to generate the API credentials.
-	<img src="img/createapp.png" width="800">
+	
+ <img src="img/createapp.png" width="800">
 
 3. #### Get your credentials
 
 	In your newly created app, click on **settings**. This will take you to the **Basic Information** tab. There you will see your 'Client ID'. Under it click **view client secret** and this will show you your 'Client Secret'.
-   	<img src="img/credentials.png" width="800">
+
+   <img src="img/credentials.png" width="800">
 
 5. #### Setup .env file
 
@@ -50,7 +52,14 @@ Before running the script you must register the application and get credential a
 Running `main.py` will start the script. 
 
 The primary input for the program is a link to a playlist on Spotify. This can be found on the Spotify UI:
+
 <img src="img/link.png" width="700">
+
+The script will then create a `csv` or `txt` file (under the user's discretion) containing the song and artist.
+
+Following the creation of the file, the user will be prompted to give the name of the file they created. This will start the search mechanism of the script and initialize the download for each inidividual song. (Songs are downloaded as MP4s)
+
+Finally, all downloaded songs will be converted to MP3 and the script will prompt the user to either delete or keep the MP4s after the conversion is done.
 
 ### Running the script:
 - Windows: `python main.py`
