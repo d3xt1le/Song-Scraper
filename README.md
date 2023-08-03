@@ -15,7 +15,7 @@ You will need to install the pytube, spotipy, moviepy, and dotenv modules to pro
 - Dotenv: `pip install python-dotenv`
  
 
-## Setting Up the Spotiy Web API
+## Setting Up the Spotify Web API
 Before running the script you must register the application and get credential access to the Spotify Web API. The necessary credentials will be added to the `.env` file.
 
 1. #### Log in to the Spotify Developer Portal
