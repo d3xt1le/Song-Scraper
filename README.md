@@ -39,6 +39,8 @@ Before running the script you must register the application and get credential a
 	You will need to copy your 'Client ID' and 'Client Secret' and paste them in the provided .env file.
 
 	```
-	# .env example
+	 # .env example
 	CLIENT_ID='your_client_id'
-	CLIENT_SECRET='your_client_secret'```
+	CLIENT_SECRET='your_client_secret
+ 	```
+	
