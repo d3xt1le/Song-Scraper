@@ -27,5 +27,5 @@ Before running the script you must register the application and get credential a
 2. #### Create a new app
 
 	Create a new app in the dashboard to generate the API credentials.
-	<img src="img/createapp.png" width="600">
+	<img src="img/createapp.png" width="800">
 	
