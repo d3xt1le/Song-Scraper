@@ -50,7 +50,7 @@ Before running the script you must register the application and get credential a
 Running `main.py` will start the script. 
 
 The primary input for the program is a link to a playlist on Spotify. This can be found on the Spotify UI:
-<img src="img/link.png" width="800">
+<img src="img/link.png" width="700">
 
 ### Running the script:
 - Windows: `python main.py`
