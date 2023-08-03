@@ -44,8 +44,14 @@ Before running the script you must register the application and get credential a
 	CLIENT_SECRET='your_client_secret
  	```
 	
-## Running the Script
+## The Script
 
-How to run the script:
+### Script Details
+Running `main.py` will start the script. 
+
+The primary input for the program is a link to a playlist on Spotify. This can be found on the Spotify UI:
+<img src="img/link.png" width="800">
+
+### Running the script:
 - Windows: `python main.py`
 - Linux and Mac: `python3 main.py`
