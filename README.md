@@ -23,7 +23,7 @@ Before running the script you must register the application and get credential a
 	 Navigate to the [Spotify developer portal](https://developer.spotify.com/dashboard) and login using your normal Spotify username and password.
 	 You can create a new account if you don't have one
 	
- 	***You don't need a paid subscription to access the API, 'free' account users can still use it.***
+ 	***NOTE:*** You don't need a paid subscription to access the API, 'free' account users can still use it.
 2. #### Create a new app
 
 	Create a new app in the dashboard to generate the API credentials.
