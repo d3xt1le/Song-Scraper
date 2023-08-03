@@ -7,6 +7,7 @@ If not go to this link: [How to install Python on Windows, Mac and Linux](https:
 
 ### Python Modules
 You will need to install the pytube, spotipy, moviepy, and dotenv modules to properly run the script.
+
 **Install:**
 	Pytube: `pip install pytube`
 	Spotipy: `pip install spotipy --upgrade`
